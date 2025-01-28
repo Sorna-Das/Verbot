@@ -1,4 +1,4 @@
-# Flask Chatterbot Web Application
+# Verbot
 
 A web-based chatbot application built using Flask and ChatterBot. This project demonstrates how to integrate a conversational AI chatbot into a web interface.
 
@@ -41,7 +41,7 @@ This project is a simple implementation of a chatbot application using Flask (a 
 ```
 5. Directory Structure
   ``` bash
-  sorna-das-sdp2/
+  sorna-das-verbot/
   ├── README.md          # Project documentation
   ├── app.py             # Flask application
   ├── db.sqlite3         # Database file for ChatterBot
